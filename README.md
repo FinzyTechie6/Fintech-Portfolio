@@ -1,4 +1,4 @@
-# Fintech Por
+# Fintech Portfolio
 tfolio — Payment Systems & Digital Lending Analysis
 
 This repository contains my fintech product & analysis work:
