@@ -1,4 +1,5 @@
-# Fintech Protfolio — Payment Systems & Digital Lending Analysis
+# Fintech Por
+tfolio — Payment Systems & Digital Lending Analysis
 
 This repository contains my fintech product & analysis work:
 - UPI Ecosystem Analysis (Project 1)
